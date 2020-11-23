@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  adore: 1
+  deteste: 1
+  restaurant: one
+  compte: one
+
+two:
+  adore: 1
+  deteste: 1
+  restaurant: two
+  compte: two
